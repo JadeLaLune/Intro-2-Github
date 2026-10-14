@@ -1,5 +1,5 @@
 # Intro-2-Github
-This is OCH's first repository.
+This is OCH's first public repository for a workshop at INFH6780.
 
 ## INFO Hub Numbers
 
@@ -10,6 +10,7 @@ New INFO Hub Student numbers:
 | PhD | 173 |
 | MSc | 99 |
 | MFA | 46 |
+| Total | 318 |
 
 ```
 * according to data from https://infh.hkust-gz.edu.cn/about/fast-facts/ on 2026-09-30
